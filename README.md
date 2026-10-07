@@ -18,3 +18,13 @@ Q4 Run 3 — Boundary case (a): https://www.automataverse.com/m/iL5rDjaX
 
 Q5 Run 1 — Accept (110101#101011): https://www.automataverse.com/m/njnBVWTn
 Q5 Run 2 — Reject (110101#110101): https://www.automataverse.com/m/sTqgQrED
+
+Q6 Broken Run 1 — Empty string: https://www.automataverse.com/m/mwfya6VC
+Q6 Broken Run 2 — 11: https://www.automataverse.com/m/GwahtAaG
+Q6 Broken Run 3 — 1: https://www.automataverse.com/m/NZcJJC2P
+Q6 Broken Run 4 — 111: https://www.automataverse.com/m/XX5WYyxV
+
+Q6 Fixed Run 1 — Empty string: https://www.automataverse.com/m/eyKPAND9
+Q6 Fixed Run 2 — 11: https://www.automataverse.com/m/F5gjRtZz
+Q6 Fixed Run 3 — 1: https://www.automataverse.com/m/aUP7zU9Y
+Q6 Fixed Run 4 — 111: https://www.automataverse.com/m/Y2T2Ggih
